@@ -4,9 +4,10 @@
 **Analyste :** Département d'Analyse Économique  
 **Version :** 1.0
 
- 
+
 EZ-ZEMANY IKRAM
 
+![WhatsApp Image 2025-10-30 at 11 42 49_32be17a0](https://github.com/user-attachments/assets/c858ba41-9519-4b11-af7b-31aec6f8bbbe)
 
 ---
 
