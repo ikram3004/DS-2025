@@ -1111,3 +1111,5 @@ Les résultats s'inscrivent dans plusieurs tendances macroéconomiques majeures 
 - **Transformation structurelle** : Le passage de l'agriculture vers l'industrie puis les services génère des gains de productivité importants dans les économies en développement.
 
 - **Financiarisation** : Les économies développées ont évolué vers des modèles
+-    <img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/6ac19c27-d8ab-49f6-b103-9ca21101dc5f" />
+
