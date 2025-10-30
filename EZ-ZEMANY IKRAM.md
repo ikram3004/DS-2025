@@ -4,6 +4,10 @@
 **Analyste :** Département d'Analyse Économique  
 **Version :** 1.0
 
+ 
+EZ-ZEMANY IKRAM
+
+
 ---
 
 ## 1. Introduction et Cadre Méthodologique
