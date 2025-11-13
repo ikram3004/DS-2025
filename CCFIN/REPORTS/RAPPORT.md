@@ -353,7 +353,8 @@ sns.heatmap(correlation_matrix, annot=False, cmap='coolwarm')
 plt.title('Matrice de Corrélation')
 plt.show()
 ```
-<img width="851" height="547" alt="image" src="https://github.com/user-attachments/assets/6ec03155-2b55-4e85-b6c5-c3d8d7f0fa13" />
+<img width="851" height="547" alt="image" src="https://github.com/user-attachments/assets/3180e64c-9d60-459b-9456-a3b3cba06cd3" />
+
 
 ---
 
