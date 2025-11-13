@@ -354,6 +354,7 @@ plt.title('Matrice de Corrélation')
 plt.show()
 ```
 <img width="851" height="547" alt="image" src="https://github.com/user-attachments/assets/3180e64c-9d60-459b-9456-a3b3cba06cd3" />
+<img width="973" height="893" alt="image" src="https://github.com/user-attachments/assets/cadf5739-c888-427e-838c-3c2bd5a533e4" />
 
 
 ---
